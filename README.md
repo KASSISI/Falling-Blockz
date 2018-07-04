@@ -1,20 +1,20 @@
 Updates!:
 
-V0.0.2.0
-Adden new Block
-Changed Background to dark blue
+V0.0.2.0                                                                                                                          
+Adden new Block                                                                                                                    
+Changed Background to dark blue                                                                                                     
+Fixed small issues*                                                                                                                 
+
+
+V0.0.1.7                                                                                                                           
+Changed logo                                                                                                                       
 Fixed small issues*
 
 
-V0.0.1.7
-Changed logo
-Fixed small issues*
-
-
-V0.0.0.9
+V0.0.0.9                                                                                                                          
 Game is now playable!
 
-V0.0.0.1
+V0.0.0.1                                                                                                                          
 Started developing
 
 
@@ -29,7 +29,7 @@ Stealing this game is illegal!!
 
 Credits
 
-Tester: Mike Buisman
+Tester: Mike Buisman                                                                                                            
 Owner: Kas Balkestein
 
 
